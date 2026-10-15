@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560"><defs><linearGradient id="m" y2="1"><stop stop-color="#19142a"/><stop offset="1" stop-color="#070b16"/></linearGradient></defs>
+<rect width="900" height="560" fill="url(#m)"/><rect x="50" y="55" width="800" height="450" rx="28" fill="#0f1220"/>
+<rect x="80" y="90" width="740" height="54" rx="16" fill="#171b2d"/><rect x="80" y="175" width="220" height="285" rx="20" fill="#6f4b78"/><rect x="325" y="175" width="220" height="285" rx="20" fill="#a45f55"/><rect x="570" y="175" width="250" height="285" rx="20" fill="#3d617e"/>
+<circle cx="190" cy="315" r="55" fill="#f8d18f" opacity=".82"/><circle cx="435" cy="315" r="55" fill="#9ef0d4" opacity=".72"/><circle cx="695" cy="315" r="55" fill="#8fa7ff" opacity=".75"/>
+<text x="107" y="125" font-size="24" font-family="Arial" fill="#f4f6fb" font-weight="700">MOVIEBOX</text></svg>

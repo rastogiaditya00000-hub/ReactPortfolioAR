@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560"><rect width="900" height="560" fill="#14182a"/>
+<circle cx="715" cy="115" r="180" fill="#8fa7ff" opacity=".22"/><circle cx="160" cy="450" r="150" fill="#9ef0d4" opacity=".16"/>
+<rect x="76" y="60" width="748" height="440" rx="28" fill="#0c1220" stroke="#33405c"/>
+<rect x="105" y="96" width="690" height="50" rx="15" fill="#151d2d"/><circle cx="137" cy="121" r="13" fill="#9ef0d4"/>
+<rect x="105" y="176" width="170" height="288" rx="20" fill="#151d2d"/><rect x="298" y="176" width="497" height="125" rx="20" fill="#182235"/><rect x="298" y="324" width="497" height="140" rx="20" fill="#182235"/>
+<circle cx="345" cy="220" r="20" fill="#8fa7ff"/><rect x="378" y="205" width="180" height="13" rx="7" fill="#65738c"/><rect x="378" y="232" width="280" height="10" rx="5" fill="#3b475c"/>
+<text x="120" y="235" font-size="28" font-family="Arial" fill="#f4f6fb" font-weight="700">DEV</text><text x="120" y="270" font-size="28" font-family="Arial" fill="#9ef0d4" font-weight="700">CONNECT</text></svg>

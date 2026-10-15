@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#18223e"/><stop offset="1" stop-color="#28385d"/></linearGradient></defs>
+<rect width="900" height="560" fill="url(#g)"/><rect x="55" y="55" width="790" height="450" rx="28" fill="#f5f3ed"/>
+<rect x="90" y="95" width="720" height="46" rx="12" fill="#ffffff"/><circle cx="120" cy="118" r="11" fill="#9ef0d4"/><rect x="150" y="108" width="115" height="18" rx="8" fill="#151b28"/>
+<rect x="90" y="175" width="335" height="285" rx="20" fill="#d7e4df"/><rect x="460" y="175" width="350" height="80" rx="18" fill="#20283b"/><rect x="460" y="275" width="165" height="185" rx="18" fill="#f2c98d"/><rect x="645" y="275" width="165" height="185" rx="18" fill="#aab9ed"/>
+<text x="126" y="330" font-family="Arial" font-size="44" font-weight="700" fill="#15202a">SHOP</text><text x="126" y="380" font-family="Arial" font-size="44" font-weight="700" fill="#15202a">SMARTER.</text>
+</svg>
