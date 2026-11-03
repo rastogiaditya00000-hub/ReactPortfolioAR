@@ -85,7 +85,7 @@ const projects = [
   {
     title: 'Rastogi Tour And Travel',
     type: 'Tour And Travel',
-    image: 'https://lh3.googleusercontent.com/grass-cs/ACvplmMDyh8b4eVHlEd8QMhejgkCEySU8KblvbU9xjxtqtkt62VsqHCgSO-KGByrT_qsK5ZwnLmsghZl_dtAdSmOu4y63fEY0C8XOBHSfXSq1e5KLycUOyaLO5pb44sU7RlomT0tdMKr=w326-h312-n-k-no',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYvgZciNJqPDQ9EwOlyKiuuIfzUKhCH5fRss3IRUK_CYUXZCa_XE9GjYA&s=10',
     description:
       'Developed a responsive portfolio website showcasing my skills, projects, experience, and professional profile with a modern and user-friendly design.',
     stack: ['React', 'Express', 'MongoDB'],
